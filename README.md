@@ -1,2 +1,2 @@
 # project
-HachClub auth project. README file for more info.
+HackClub auth project. README file for more info.
